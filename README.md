@@ -1,6 +1,6 @@
 # covid19selfcheckapp
 
-A Flutter application to check how close you are to getting corona virus.
+A Flutter application for Corona virus self assessment.
 
 ## Getting Started
 1. Clone the app. 
